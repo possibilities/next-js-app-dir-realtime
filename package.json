@@ -1,0 +1,27 @@
+{
+  "name": "next-js-app-dir-realtime",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.31.0",
+    "next": "^13.4.13",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.20",
+    "encoding": "^0.1.13",
+    "eslint": "8.45.0",
+    "eslint-config-next": "13.4.11",
+    "nodemon": "^3.0.1",
+    "prettier": "^3.0.0",
+    "supabase": "^1.83.7",
+    "typescript": "5.1.6"
+  }
+}
